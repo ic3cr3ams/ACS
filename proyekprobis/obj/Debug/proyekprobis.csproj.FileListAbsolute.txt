@@ -1,0 +1,56 @@
+D:\probis\proyekprobis\proyekprobis\bin\Debug\proyekprobis.exe.config
+D:\probis\proyekprobis\proyekprobis\bin\Debug\proyekprobis.exe
+D:\probis\proyekprobis\proyekprobis\bin\Debug\proyekprobis.pdb
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.csprojAssemblyReference.cache
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Login.resources
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Properties.Resources.resources
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.csproj.GenerateResource.cache
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.csproj.CoreCompileInputs.cache
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.exe
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.pdb
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Form2.resources
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.BookingSparePart.resources
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Cashier.resources
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Searching.resources
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.InputPart.resources
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Admin.resources
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Profile.resources
+D:\probis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Form3.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\bin\Debug\proyekprobis.exe.config
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\bin\Debug\proyekprobis.exe
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\bin\Debug\proyekprobis.pdb
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.csprojAssemblyReference.cache
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Admin.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.BookingSparePart.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Cashier.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Login.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Form2.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Form3.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.InputPart.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Profile.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Properties.Resources.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Searching.resources
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.csproj.GenerateResource.cache
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.csproj.CoreCompileInputs.cache
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.exe
+D:\[ [ [ KULIAH ] ] ]\[ [ [ TUGAS ] ] ]\Semester 5\Proyek Bisnis\proyekprobis\proyekprobis\obj\Debug\proyekprobis.pdb
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\bin\Debug\proyekprobis.exe.config
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\bin\Debug\proyekprobis.exe
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\bin\Debug\proyekprobis.pdb
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.csprojAssemblyReference.cache
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Admin.resources
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.BookingSparePart.resources
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Cashier.resources
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Login.resources
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Form2.resources
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Form3.resources
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.InputPart.resources
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Profile.resources
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Properties.Resources.resources
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.Searching.resources
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.csproj.GenerateResource.cache
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.csproj.CoreCompileInputs.cache
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.csproj.CopyComplete
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.exe
+C:\Users\Brevalda\Documents\acs\proyekprobis\proyekprobis\obj\Debug\proyekprobis.pdb
