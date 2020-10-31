@@ -34,7 +34,7 @@ namespace proyekprobis
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            connStr = "Data Source=orcl; User ID=nus; Password=nus";
+            connStr = "Data Source=XE; User ID=acs; Password=acs";
             conn = new OracleConnection(connStr);
 
             try
