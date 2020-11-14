@@ -36,7 +36,7 @@ namespace proyekprobis
         {
             connStr = "Data Source=XE; User ID=acs; Password=acs";
             conn = new OracleConnection(connStr);
-
+            //ggg
             try
             {
                 if (conn.State == ConnectionState.Closed)
